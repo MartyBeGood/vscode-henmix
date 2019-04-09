@@ -1,13 +1,13 @@
 {
-  "name": "henna",
-  "displayName": "Henna Color Theme",
-  "description": "Henna is a colour theme inspired by my green-eyed redhead girl. The colors are carefully selected with legibility and people with dyslexia in mind to create an accessible theme for Visual Studio Code",
+  "name": "henmix",
+  "displayName": "HenMix Color Theme",
+  "description": "HenMix is a Color Theme designed to fit into Numix",
   "version": "0.10.0",
-  "publisher": "httpsterio",
-  "homepage": "http://httpster.io/vscode-henna",
+  "publisher": "MartyBeGood",
+  "homepage": "https://github.com/MartyBeGood",
   "repository": {
     "type": "git",
-    "url": "https://github.com/httpsterio/vscode-henna"
+    "url": "https://github.com/MartyBeGood/vscode-henmix"
   },
   "galleryBanner": {
     "color": "#21272e",
@@ -23,15 +23,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Henna",
+        "label": "HenMix",
         "uiTheme": "vs-dark",
-        "path": "./themes/henna-color-theme.json"
+        "path": "./themes/henmix-color-theme.json"
       }
     ]
   },
   "__metadata": {
-    "id": "e9b8479f-62ef-4613-83ea-2acfd2bb1cf0",
-    "publisherId": "73451000-cd83-4100-9266-8acc36ee8405",
-    "publisherDisplayName": "Sami Singh"
+    "id": "",
+    "publisherId": "",
+    "publisherDisplayName": "MartyBeGood"
   }
 }
