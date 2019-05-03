@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="henna" Version="0.9.0" Publisher="httpsterio"/>
+    <Identity Language="en-US" Id="henna" Version="0.11.0" Publisher="MartyBeGood"/>
     <DisplayName>HenMix Color Theme</DisplayName>
     <Description xml:space="preserve">HenMix adapts the Henna Color Theme to fit in with the Numix Dark GTK theme</Description>
     <Tags>theme,color-theme</Tags>
